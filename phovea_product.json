@@ -14,7 +14,8 @@
     "additional": [
       {
         "name": "phovea_data_hdf",
-        "repo": "phovea/phovea_data_hdf"
+        "repo": "phovea/phovea_data_hdf",
+        "branch": "develop"
       }
     ]
   }
