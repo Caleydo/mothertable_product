@@ -1,0 +1,21 @@
+[
+  {
+    "type": "web",
+    "label": "mothertable",
+    "repo": "Caleydo/mothertable",
+    "branch": "master",
+    "additional": []
+  },
+  {
+    "type": "api",
+    "label": "mothertable_server",
+    "repo": "phovea/phovea_server",
+    "branch": "develop",
+    "additional": [
+      {
+        "name": "phovea_data_hdf",
+        "repo": "phovea/phovea_data_hdf"
+      }
+    ]
+  }
+]
