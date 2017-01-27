@@ -17,6 +17,12 @@
         "repo": "phovea/phovea_data_hdf",
         "branch": "develop"
       }
+    ],
+    "data": [
+      {
+        "type": "repo",
+        "repo": "Caleydo/mothertable"
+      }
     ]
   }
 ]
