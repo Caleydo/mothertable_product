@@ -22,6 +22,10 @@
       {
         "type": "repo",
         "repo": "Caleydo/mothertable"
+      },
+	  {
+        "type": "url",
+        "repo": "TCGA_GBM_2014_04_16.h5"
       }
     ]
   }
