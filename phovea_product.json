@@ -1,14 +1,14 @@
 [
   {
     "type": "web",
-    "label": "mothertable",
+    "label": "taggle",
     "repo": "Caleydo/mothertable",
     "branch": "master",
     "additional": []
   },
   {
     "type": "api",
-    "label": "mothertable_server",
+    "label": "taggle_server",
     "repo": "phovea/phovea_server",
     "branch": "develop",
     "additional": [
