@@ -15,7 +15,7 @@
     "yargs-parser": "4.2.0",
     "yeoman-environment": "1.6.6"
   },
-  "name": "mothertable_product",
+  "name": "taggle_product",
   "description": "",
   "homepage": "https://phovea.caleydo.org",
   "version": "1.0.0-SNAPSHOT",
@@ -26,10 +26,10 @@
   },
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/Caleydo/mothertable_product/issues"
+    "url": "https://github.com/Caleydo/taggle_product/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Caleydo/mothertable_product.git"
+    "url": "https://github.com/Caleydo/taggle_product.git"
   }
 }
