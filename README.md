@@ -1,4 +1,4 @@
-mothertable_product [![Phovea][phovea-image]][phovea-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+mothertable_product [![Phovea][phovea-image]][phovea-url] [![NPM version][npm-image]][npm-url] [![Build Status][circleci-image]][circleci-url] [![Dependency Status][daviddm-image]][daviddm-url]
 =====================
 
 
@@ -7,8 +7,8 @@ Installation
 ------------
 
 ```
-git clone https://github.com/Caleydo/mothertable_product.git
-cd mothertable_product
+git clone https://github.com/Caleydo/taggle_product.git
+cd taggle_product
 npm install
 ```
 
@@ -36,9 +36,9 @@ This repository is part of **[Phovea](http://phovea.caleydo.org/)**, a platform 
 
 [phovea-image]: https://img.shields.io/badge/Phovea-Product-FABC15.svg
 [phovea-url]: https://phovea.caleydo.org
-[npm-image]: https://badge.fury.io/js/mothertable_product.svg
-[npm-url]: https://npmjs.org/package/mothertable_product
-[travis-image]: https://travis-ci.org/Caleydo/mothertable_product.svg?branch=master
-[travis-url]: https://travis-ci.org/Caleydo/mothertable_product
-[daviddm-image]: https://david-dm.org/Caleydo/mothertable_product/status.svg
-[daviddm-url]: https://david-dm.org/Caleydo/mothertable_product
+[npm-image]: https://badge.fury.io/js/taggle_product.svg
+[npm-url]: https://npmjs.org/package/taggle_product
+[circleci-image]: https://circleci.com/gh/Caleydo/taggle_product/tree/master.svg?style=svg)
+[circleci-url]: https://circleci.com/gh/Caleydo/taggle_product/tree/master
+[daviddm-image]: https://david-dm.org/Caleydo/taggle_product/status.svg
+[daviddm-url]: https://david-dm.org/Caleydo/taggle_product
