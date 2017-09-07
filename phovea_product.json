@@ -2,31 +2,8 @@
   {
     "type": "web",
     "label": "taggle",
-    "repo": "Caleydo/mothertable",
+    "repo": "sgratzl/taggle2",
     "branch": "master",
     "additional": []
-  },
-  {
-    "type": "api",
-    "label": "taggle_server",
-    "repo": "phovea/phovea_server",
-    "branch": "develop",
-    "additional": [
-      {
-        "name": "phovea_data_hdf",
-        "repo": "phovea/phovea_data_hdf",
-        "branch": "develop"
-      }
-    ],
-    "data": [
-      {
-        "type": "repo",
-        "repo": "Caleydo/mothertable"
-      },
-      {
-        "type": "url",
-        "url": "TCGA_GBM_2014_04_16.h5"
-      }
-    ]
   }
 ]
