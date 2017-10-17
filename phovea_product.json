@@ -2,8 +2,8 @@
   {
     "type": "web",
     "label": "taggle",
-    "repo": "sgratzl/taggle2",
-    "branch": "thinkh/header-redesign",
+    "repo": "caleydo/taggle",
+    "branch": "master",
     "additional": []
   }
 ]
